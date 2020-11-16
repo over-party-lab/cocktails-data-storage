@@ -1,0 +1,148 @@
+{
+    "info": {
+        "code": 0,
+        "msg": "Over Party Lab alcohol list"
+    },
+    "data": [
+        {
+            "name": "Gordon’s London Dry Gin",
+            "price": "$ 350~$ 450",
+            "taste": "杜松子香氣平平",
+            "suitable": "較複雜的調酒",
+            "keys": ["杜松子"]
+        },
+        {
+            "name": "Beefeater London Dry Gin",
+            "price": "$ 350~$ 450",
+            "taste": "杜松子的氣味稍重",
+            "suitable": "搭配氣味較強勢的碳酸飲料",
+            "keys": ["杜松子"]
+        },
+        {
+            "name": "Bombay Sapphire London Dry Gin",
+            "price": "$ 500~$ 650",
+            "taste": "橘橙類的果皮香氣，杜松子",
+            "suitable": "蜂蜜琴酒，或偏甜的調酒",
+            "keys": []
+        },
+        {
+            "name": "Tanqueray London Dry Gin",
+            "price": "$ 600~$ 800",
+            "taste": "柑橘皮、淡雅檸檬香",
+            "suitable": "各式調酒或加冰直接飲用",
+            "keys": []
+        },
+        {
+            "name": "KAVALAN Gin",
+            "price": "$ 750~$ 800",
+            "taste": "泥土味，啜飲時有柑橘與金棗香氣",
+            "suitable": "Gin & Tonic",
+            "keys": []
+        },
+        {
+            "name": "ROKU Gin",
+            "price": "$ 900~$ 1,000",
+            "taste": "柚子、茶香與山椒風味",
+            "suitable": "Gin & Tonic或清爽系列調酒",
+            "keys": []
+        },
+        {
+            "name": "Hendrick’s Gin",
+            "price": "$ 950~$ 1,100",
+            "taste": "小黃瓜、玫瑰",
+            "suitable": "搭配花草類調製，或是偏甜的酒飲",
+            "keys": []
+        },
+        {
+            "name": "№3 London Dry Gin",
+            "price": "$ 1,200~$ 1,400",
+            "taste": "檸檬皮香氣",
+            "suitable": "Gin Tonic 或是凍飲",
+            "keys": []
+        },
+        {
+            "name": "KI NO BI Kyoto Dry Gin",
+            "price": "$ 1,200~$ 1,400",
+            "taste": "柑橘香氣、一點特殊的苦味",
+            "suitable": "Gin Tonic、White Lady",
+            "keys": []
+        },
+        {
+            "name": "Monkey 47 Dry Gin",
+            "price": "$ 1,300~$ 1,500",
+            "taste": "杜松子、熱帶水果味",
+            "suitable": "純飲或是簡單的Gin Tonic",
+            "keys": []
+        },
+        {
+            "name": "Tanqueray No. Ten",
+            "price": "$ 900~$ 1,100",
+            "taste": "清新柑橘，很好的平衡",
+            "suitable": "凍飲、Gin & Tonic 或是 Gimlet",
+            "keys": []
+        },
+        {
+            "name": "Tanqueray Malacca Gin",
+            "price": "$ 1,100~$ 1,300",
+            "taste": "較甜、檸檬皮與草本",
+            "suitable": "加一點冰塊融水後飲用",
+            "keys": []
+        },
+        {
+            "name": "Beefeater Pink Gin",
+            "price": "$ 700~$ 900",
+            "taste": "甜味、草莓香氣",
+            "suitable": "草莓 Gin & Tonic",
+            "buy": "酒專、家樂福"
+        },
+        {
+            "name": "Beefeater 24",
+            "price": "$ 1,200~$ 1,300",
+            "taste": "檸檬皮、柑橘，尾韻茶的澀味",
+            "suitable": "凍飲、Martini",
+            "keys": []
+        },
+        {
+            "name": "Gin Sul",
+            "price": "$ 1,200~$ 1,600",
+            "taste": "柑橘風味強烈、一點點花草氣息",
+            "suitable": "Gin & Tonic 或 Gimlet",
+            "keys": []
+        },
+        {
+            "name": "Mirabeau Rosé Gin",
+            "price": "$ 799",
+            "taste": "草本氣味、淡淡花香",
+            "suitable": "Gin & Tonic",
+            "buy": "Costco"
+        },
+        {
+            "name": "London №1 Gin",
+            "price": "$1,000 ~ $1,200",
+            "taste": "柑橘、肉桂與辛香料",
+            "suitable": "Martini、柑橘類相關的調酒",
+            "buy": "酒專"
+        },
+        {
+            "name": "Hayman’s Old Tom Gin",
+            "price": "$ 700 ~$ 800",
+            "taste": "草本香氣與微甜的果香感",
+            "suitable": "Gin & Tonic",
+            "keys": []
+        },
+        {
+            "name": "Hayman’s Sloe Gin",
+            "price": "$ 650 ~$ 800",
+            "taste": "黑醋栗與莓果類的香氣",
+            "suitable": "加冰純飲",
+            "keys": []
+        },
+        {
+            "name": "London to Lima Gin",
+            "price": "$ 1,500 ~$ 1,800",
+            "taste": "辛香料的胡椒香氣",
+            "suitable": "凍飲",
+            "keys": []
+        }
+    ]
+}

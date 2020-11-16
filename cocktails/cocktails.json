@@ -3,6 +3,7 @@
         "code": 0,
         "msg": "Over Party Lab cocktails list"
     },
+    "next": "cocktails_next_2",
     "data": [
         {
             "igtoken": "Bt_DxgkFEF9",
@@ -941,6 +942,36 @@
             "name": {
                 "en": "No Longer Human",
                 "zh": "人間失格"
+            },
+            "signature": false
+        },
+        {
+            "igtoken": "CF66kh0n5n0",
+            "key": "water",
+            "keys": ["水", "Water", "甜的", "果香", "蘭姆酒", "rum", "peach", "桃子", "apple", "青蘋果", "maraschino", "黑櫻桃"],
+            "name": {
+                "en": "Water",
+                "zh": "水"
+            },
+            "signature": true
+        },
+        {
+            "igtoken": "CGNC5i6HXGk",
+            "key": "old_fashion",
+            "keys": ["古典雞尾酒", "Old Fashion", "酒感", "威士忌", "whiskey", "波本", "bourbon", "bitters", "苦精"],
+            "name": {
+                "en": "Old Fashion",
+                "zh": "古典雞尾酒"
+            },
+            "signature": false
+        },
+        {
+            "igtoken": "CGe8dkeHsBa",
+            "key": "godfather",
+            "keys": ["教父", "godfather", "酒感", "甜的", "威士忌", "whiskey", "蘇格蘭", "scotch", "amaretto", "杏仁"],
+            "name": {
+                "en": "Old Fashion",
+                "zh": "教父"
             },
             "signature": false
         }
