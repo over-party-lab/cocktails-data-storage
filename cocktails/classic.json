@@ -1,0 +1,677 @@
+{
+    "info": {
+        "code": 0,
+        "msg": "Cocktails list for classic cocktail"
+    },
+    "next": null,
+    "count": 31,
+    "data": [
+        {
+            "igtoken": "Bt_DxgkFEF9",
+            "key": "long_island_iced_tea",
+            "keys": [
+                "甜的",
+                "酒感",
+                "伏特加",
+                "vodka",
+                "琴酒",
+                "gin",
+                "蘭姆酒",
+                "rum",
+                "龍舌蘭",
+                "tequila",
+                "君度",
+                "cointreau",
+                "可樂",
+                "經典",
+                "醉",
+                "長飲",
+                "檸檬",
+                "lemon",
+                "Long Island Iced Tea",
+                "長島冰茶"
+            ],
+            "name": {
+                "en": "Long Island Iced Tea",
+                "zh": "長島冰茶"
+            },
+            "signature": false
+        },
+        {
+            "igtoken": "BuGcFpgFU2C",
+            "key": "cosmopolitan",
+            "keys": [
+                "果香",
+                "甜的",
+                "伏特加",
+                "vodka",
+                "君度",
+                "cointreau",
+                "蔓越梅",
+                "妹酒",
+                "短飲",
+                "cranberry",
+                "檸檬",
+                "lemon",
+                "Cosmopolitan",
+                "柯夢波丹"
+            ],
+            "name": {
+                "en": "Cosmopolitan",
+                "zh": "柯夢波丹"
+            },
+            "signature": false
+        },
+        {
+            "igtoken": "BuLoM1ClP6G",
+            "key": "mojito",
+            "keys": [
+                "甜的",
+                "清爽",
+                "蘭姆酒",
+                "rum",
+                "檸檬",
+                "長飲",
+                "薄荷",
+                "雪碧",
+                "Mojito",
+                "莫西多"
+            ],
+            "name": {
+                "en": "Mojito",
+                "zh": "莫西多"
+            },
+            "signature": false
+        },
+        {
+            "igtoken": "Bui7tiCFkVl",
+            "key": "japanese_slipper",
+            "keys": [
+                "甜的",
+                "日本",
+                "君度",
+                "cointreau",
+                "短飲",
+                "綠色",
+                "Japanese Slipper",
+                "日本拖鞋"
+            ],
+            "name": {
+                "en": "Japanese Slipper",
+                "zh": "日本拖鞋"
+            },
+            "signature": false
+        },
+        {
+            "igtoken": "Bu8gPaRFlNZ",
+            "key": "screwdriver",
+            "keys": [
+                "甜的",
+                "vodka",
+                "長飲",
+                "柳橙",
+                "orange",
+                "Screwdriver",
+                "螺絲起子"
+            ],
+            "name": {
+                "en": "Screwdriver",
+                "zh": "螺絲起子"
+            },
+            "signature": false
+        },
+        {
+            "igtoken": "BvBux8UlVLR",
+            "key": "high_life",
+            "keys": [
+                "甜的",
+                "vodka",
+                "短飲",
+                "君度",
+                "cointreau",
+                "鳳梨",
+                "蛋白",
+                "High Life",
+                "上流社會"
+            ],
+            "name": {
+                "en": "High Life",
+                "zh": "上流社會"
+            },
+            "signature": false
+        },
+        {
+            "igtoken": "BvGwwDTlTyc",
+            "key": "vodka_lime",
+            "keys": [
+                "酸的",
+                "酒感",
+                "vodka",
+                "鹽口",
+                "檸檬",
+                "lemon",
+                "lime",
+                "Vodka Lime",
+                "伏特加萊姆"
+            ],
+            "name": {
+                "en": "Vodka Lime",
+                "zh": "伏特加萊姆"
+            },
+            "signature": false
+        },
+        {
+            "igtoken": "Bv9Kf8jFP4B",
+            "key": "salty_dog",
+            "keys": [
+                "果香",
+                "酸的",
+                "伏特加",
+                "vodka",
+                "葡萄柚",
+                "Salty dog",
+                "鹹狗"
+            ],
+            "name": {
+                "en": "Salty dog",
+                "zh": "鹹狗"
+            },
+            "signature": false
+        },
+        {
+            "igtoken": "Bvq_AXvl0RY",
+            "key": "bees_knees",
+            "keys": [
+                "果香",
+                "酸的",
+                "琴酒",
+                "gin",
+                "檸檬",
+                "lemon",
+                "短飲",
+                "Bee's Knees",
+                "蜂膝"
+            ],
+            "name": {
+                "en": "Bee's Knees",
+                "zh": "蜂膝"
+            },
+            "signature": false
+        },
+        {
+            "igtoken": "BwhL40wF3Ny",
+            "key": "sea_breeze",
+            "keys": [
+                "果香",
+                "甜的",
+                "伏特加",
+                "vodka",
+                "妹酒",
+                "葡萄柚",
+                "cranberry",
+                "蔓越梅",
+                "長飲",
+                "Sea Breeze",
+                "海風"
+            ],
+            "name": {
+                "en": "Sea Breeze",
+                "zh": "海風"
+            },
+            "signature": false
+        },
+        {
+            "igtoken": "Bwo1oTslZNA",
+            "key": "sidecar",
+            "keys": [
+                "cognac",
+                "白蘭地",
+                "干邑",
+                "短飲",
+                "檸檬",
+                "lemon",
+                "君度",
+                "cointreau",
+                "Sidecar",
+                "側車"
+            ],
+            "name": {
+                "en": "Sidecar",
+                "zh": "側車"
+            },
+            "signature": false
+        },
+        {
+            "igtoken": "BwzJebUF48u",
+            "key": "gin_tonic",
+            "keys": [
+                "清爽",
+                "tonic",
+                "琴酒",
+                "gin",
+                "長飲",
+                "檸檬",
+                "lemon",
+                "Gin Tonic",
+                "琴通寧"
+            ],
+            "name": {
+                "en": "Gin Tonic",
+                "zh": "琴通寧"
+            },
+            "signature": false
+        },
+        {
+            "igtoken": "Bw63bMqFeTa",
+            "key": "gin_fizz",
+            "keys": [
+                "清爽",
+                "琴酒",
+                "gin",
+                "長飲",
+                "檸檬",
+                "lemon",
+                "Gin Fizz",
+                "琴費士"
+            ],
+            "name": {
+                "en": "Gin Fizz",
+                "zh": "琴費士"
+            },
+            "signature": false
+        },
+        {
+            "igtoken": "BxFJj7XlnNG",
+            "key": "white_lady",
+            "keys": [
+                "琴酒",
+                "gin",
+                "短飲",
+                "檸檬",
+                "lemon",
+                "君度",
+                "cointreau",
+                "White Lady",
+                "白色佳人"
+            ],
+            "name": {
+                "en": "White Lady",
+                "zh": "白色佳人"
+            },
+            "signature": false
+        },
+        {
+            "igtoken": "BxXGJoLlJwY",
+            "key": "sex_on_the_beach",
+            "keys": [
+                "果香",
+                "伏特加",
+                "vodka",
+                "鳳梨",
+                "cranberry",
+                "蔓越梅",
+                "長飲",
+                "妹酒",
+                "清爽",
+                "甜的",
+                "Sex on the beach",
+                "性感海灘"
+            ],
+            "name": {
+                "en": "Sex on the beach",
+                "zh": "性感海灘"
+            },
+            "signature": false
+        },
+        {
+            "igtoken": "Bx6-RLblgpo",
+            "key": "espresso_martini",
+            "keys": [
+                "伏特加",
+                "vodka",
+                "espresso",
+                "咖啡",
+                "短飲",
+                "Espresso Martini",
+                "濃縮咖啡馬丁尼"
+            ],
+            "name": {
+                "en": "Espresso Martini",
+                "zh": "濃縮咖啡馬丁尼"
+            },
+            "signature": false
+        },
+        {
+            "igtoken": "ByNI8Yil6x-",
+            "key": "fernet_gin",
+            "keys": [
+                "木質",
+                "苦的",
+                "酒感",
+                "琴酒",
+                "gin",
+                "fernet",
+                "檸檬",
+                "lemon",
+                "Fernet Gin",
+                "苦琴酒"
+            ],
+            "name": {
+                "en": "Fernet Gin",
+                "zh": "苦琴酒"
+            },
+            "signature": false
+        },
+        {
+            "igtoken": "B2tuOPtFqcB",
+            "key": "singapore_sling",
+            "keys": [
+                "果香",
+                "甜的",
+                "gin",
+                "琴酒",
+                "君度",
+                "cointreau",
+                "檸檬",
+                "lemon",
+                "糖漿",
+                "鳳梨",
+                "櫻桃白蘭地",
+                "Singapore Sling",
+                "新加坡司令"
+            ],
+            "name": {
+                "en": "Singapore Sling",
+                "zh": "新加坡司令"
+            },
+            "signature": false
+        },
+        {
+            "igtoken": "B4ZsZO8FY-J",
+            "key": "aviation",
+            "keys": [
+                "酒感",
+                "酸的",
+                "琴酒",
+                "gin",
+                "短飲",
+                "檸檬",
+                "lemon",
+                "maraschino",
+                "黑櫻桃",
+                "Aviation",
+                "飛行"
+            ],
+            "name": {
+                "en": "Aviation",
+                "zh": "飛行"
+            },
+            "signature": false
+        },
+        {
+            "igtoken": "B6F3Zf2FYwn",
+            "key": "raffles_sling",
+            "keys": [
+                "果香",
+                "甜的",
+                "gin",
+                "琴酒",
+                "君度",
+                "cointreau",
+                "檸檬",
+                "lemon",
+                "糖漿",
+                "櫻桃白蘭地",
+                "Raffles 1915 Gin Sling",
+                "萊佛士1915經典琴司令"
+            ],
+            "name": {
+                "en": "Raffles 1915 Gin Sling",
+                "zh": "萊佛士1915經典琴司令"
+            },
+            "signature": false
+        },
+        {
+            "igtoken": "B9eCnR7lYgZ",
+            "key": "whiskey_sour",
+            "keys": [
+                "茶香",
+                "酸的",
+                "甜的",
+                "bourbon",
+                "波本",
+                "沙瓦",
+                "威士忌",
+                "whiskey",
+                "Whisky",
+                "檸檬",
+                "lemon",
+                "糖漿",
+                "Whisky Sour",
+                "威士忌沙瓦"
+            ],
+            "name": {
+                "en": "Whisky Sour",
+                "zh": "威士忌沙瓦"
+            },
+            "signature": false
+        },
+        {
+            "igtoken": "B9wM30vFzM4",
+            "key": "cucumber_gin_tonic",
+            "keys": [
+                "清爽",
+                "Gin Tonic",
+                "tonic",
+                "琴酒",
+                "gin",
+                "長飲",
+                "小黃瓜",
+                "cucumber",
+                "Gin Tonic",
+                "小黃瓜琴通寧"
+            ],
+            "name": {
+                "en": "Gin Tonic",
+                "zh": "小黃瓜琴通寧"
+            },
+            "signature": false
+        },
+        {
+            "igtoken": "CBscaiglqUV",
+            "key": "martini",
+            "keys": [
+                "酒感",
+                "琴酒",
+                "gin",
+                "短飲",
+                "香艾酒",
+                "vermouth",
+                "Martini",
+                "馬丁尼"
+            ],
+            "name": {
+                "en": "Martini",
+                "zh": "馬丁尼"
+            },
+            "signature": false
+        },
+        {
+            "igtoken": "CB-lVt3leWK",
+            "key": "ramos_gin_fFizz",
+            "keys": [
+                "甜的",
+                "酸的",
+                "琴酒",
+                "gin",
+                "長飲",
+                "鮮奶",
+                "檸檬",
+                "橙花水",
+                "氣泡",
+                "lemon",
+                "Ramos Gin Fizz",
+                "拉莫斯琴費茲"
+            ],
+            "name": {
+                "en": "Ramos Gin Fizz",
+                "zh": "拉莫斯琴費茲"
+            },
+            "signature": false
+        },
+        {
+            "igtoken": "CCQrPv8FSxa",
+            "key": "negroni",
+            "keys": [
+                "木質",
+                "苦的",
+                "酒感",
+                "琴酒",
+                "gin",
+                "短飲",
+                "Vermouth",
+                "Campari",
+                "肯巴利",
+                "Negroni",
+                "內格羅尼"
+            ],
+            "name": {
+                "en": "Negroni",
+                "zh": "內格羅尼"
+            },
+            "signature": false
+        },
+        {
+            "igtoken": "CDYoCpQF6O_",
+            "key": "arnaud",
+            "keys": [
+                "酒感",
+                "琴酒",
+                "香艾酒",
+                "黑醋栗",
+                "gin",
+                "vermouth",
+                "馬丁尼",
+                "martini",
+                "Arnaud",
+                "阿爾諾"
+            ],
+            "name": {
+                "en": "Arnaud",
+                "zh": "阿爾諾"
+            },
+            "signature": false
+        },
+        {
+            "igtoken": "CEyy0CGH0qK",
+            "key": "satans_whiskers",
+            "keys": [
+                "酒感",
+                "琴酒",
+                "gin",
+                "cognac",
+                "白蘭地",
+                "vermouth",
+                "bitters",
+                "苦精",
+                "香艾酒",
+                "orange",
+                "柳橙汁",
+                "Satan's Whiskers",
+                "撒旦的鬍鬚"
+            ],
+            "name": {
+                "en": "Satan's Whiskers",
+                "zh": "撒旦的鬍鬚"
+            },
+            "signature": false
+        },
+        {
+            "igtoken": "CFXHrhknEfG",
+            "key": "metropole",
+            "keys": [
+                "酒感",
+                "cognac",
+                "白蘭地",
+                "vermouth",
+                "bitters",
+                "苦精",
+                "香艾酒",
+                "馬丁尼",
+                "martini",
+                "Metropole",
+                "大都會"
+            ],
+            "name": {
+                "en": "Metropole",
+                "zh": "大都會"
+            },
+            "signature": false
+        },
+        {
+            "igtoken": "CFpCMTindle",
+            "key": "no_longer_human",
+            "keys": [
+                "酒感",
+                "琴酒",
+                "gin",
+                "campari",
+                "肯巴利",
+                "vermouth",
+                "bitters",
+                "苦精",
+                "香艾酒",
+                "黑醋栗",
+                "blackcurrant",
+                "No Longer Human",
+                "人間失格"
+            ],
+            "name": {
+                "en": "No Longer Human",
+                "zh": "人間失格"
+            },
+            "signature": false
+        },
+        {
+            "igtoken": "CGNC5i6HXGk",
+            "key": "old_fashion",
+            "keys": [
+                "酒感",
+                "威士忌",
+                "whiskey",
+                "波本",
+                "bourbon",
+                "bitters",
+                "苦精",
+                "Old Fashion",
+                "古典雞尾酒"
+            ],
+            "name": {
+                "en": "Old Fashion",
+                "zh": "古典雞尾酒"
+            },
+            "signature": false
+        },
+        {
+            "igtoken": "CGe8dkeHsBa",
+            "key": "godfather",
+            "keys": [
+                "酒感",
+                "甜的",
+                "威士忌",
+                "whiskey",
+                "蘇格蘭",
+                "scotch",
+                "amaretto",
+                "杏仁",
+                "Old Fashion",
+                "教父"
+            ],
+            "name": {
+                "en": "Old Fashion",
+                "zh": "教父"
+            },
+            "signature": false
+        }
+    ]
+}

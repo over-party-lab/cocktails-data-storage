@@ -1,0 +1,1600 @@
+{
+    "info": {
+        "code": 0,
+        "msg": "Cocktails list for over.party.lab signature"
+    },
+    "next": null,
+    "count": 66,
+    "data": [
+        {
+            "igtoken": "BuQur3Ilex8",
+            "key": "teaffany",
+            "keys": [
+                "茶香",
+                "甜的",
+                "伏特加",
+                "vodka",
+                "妹酒",
+                "荔枝",
+                "茶",
+                "短飲",
+                "Marie Clair named Teaffany",
+                "莓荔史翠普"
+            ],
+            "name": {
+                "en": "Marie Clair named Teaffany",
+                "zh": "莓荔史翠普"
+            },
+            "signature": true
+        },
+        {
+            "igtoken": "BuYldJylf4g",
+            "key": "honey_gin",
+            "keys": [
+                "甜的",
+                "琴酒",
+                "gin",
+                "妹酒",
+                "蜂蜜",
+                "短飲",
+                "Honey Gin",
+                "琴蜜"
+            ],
+            "name": {
+                "en": "Honey Gin",
+                "zh": "琴蜜"
+            },
+            "signature": true
+        },
+        {
+            "igtoken": "BudtbbilfO2",
+            "key": "oriental_princess",
+            "keys": [
+                "甜的",
+                "梅酒",
+                "umeshu",
+                "日本",
+                "優格",
+                "短飲",
+                "Oriental Princess",
+                "清梅格格"
+            ],
+            "name": {
+                "en": "Oriental Princess",
+                "zh": "清梅格格"
+            },
+            "signature": true
+        },
+        {
+            "igtoken": "BuqqT7hF3R9",
+            "key": "ginjito",
+            "keys": [
+                "酒感",
+                "gin",
+                "糖漿",
+                "短飲",
+                "薄荷",
+                "Ginjito",
+                "涼琴相悅"
+            ],
+            "name": {
+                "en": "Ginjito",
+                "zh": "涼琴相悅"
+            },
+            "signature": true
+        },
+        {
+            "igtoken": "Bu0tHnCFZ_M",
+            "key": "childhood_sweetheart",
+            "keys": [
+                "甜的",
+                "伏特加",
+                "vodka",
+                "妹酒",
+                "cranberry",
+                "蔓越梅",
+                "甘蔗",
+                "檸檬",
+                "lemon",
+                "sprite",
+                "雪碧",
+                "葡萄柚",
+                "Childhood Sweetheart",
+                "青梅竹馬"
+            ],
+            "name": {
+                "en": "Childhood Sweetheart",
+                "zh": "青梅竹馬"
+            },
+            "signature": true
+        },
+        {
+            "igtoken": "BvOqLzIFsS7",
+            "key": "dr_kiwi",
+            "keys": [
+                "果香",
+                "甜的",
+                "蘭姆酒",
+                "rum",
+                "君度",
+                "cointreau",
+                "檸檬",
+                "lemon",
+                "奇異果",
+                "kiwi",
+                "Dr. Kiwi",
+                "奇異博士"
+            ],
+            "name": {
+                "en": "Dr. Kiwi",
+                "zh": "奇異博士"
+            },
+            "signature": true
+        },
+        {
+            "igtoken": "BvY4E_3lvax",
+            "key": "kiwi_cranberry",
+            "keys": [
+                "果香",
+                "甜的",
+                "伏特加",
+                "vodka",
+                "檸檬",
+                "lemon",
+                "奇異果",
+                "kiwi",
+                "cranberry",
+                "蔓越梅",
+                "Kiwi Cranberry",
+                "奇莓拉"
+            ],
+            "name": {
+                "en": "Kiwi Cranberry",
+                "zh": "奇莓拉"
+            },
+            "signature": true
+        },
+        {
+            "igtoken": "BvgrvKLFtEB",
+            "key": "kiwi_yogurt",
+            "keys": [
+                "果香",
+                "甜的",
+                "Yoghurt",
+                "優格酒",
+                "奇異果",
+                "kiwi",
+                "Kiwi Yogurt",
+                "奇異果優格"
+            ],
+            "name": {
+                "en": "Kiwi Yogurt",
+                "zh": "奇異果優格"
+            },
+            "signature": true
+        },
+        {
+            "igtoken": "BwW5nN_l8QX",
+            "key": "sakura_April_1st",
+            "keys": [
+                "果香",
+                "甜的",
+                "琴酒",
+                "gin",
+                "梅酒",
+                "umeshu",
+                "接骨木花",
+                "接骨木",
+                "elderflower",
+                "pomegranate",
+                "紅石榴",
+                "甘蔗",
+                "甘蔗汁",
+                "妹酒",
+                "檸檬",
+                "lemon",
+                "Sakura on April 1st",
+                "愚人節才開的櫻花"
+            ],
+            "name": {
+                "en": "Sakura on April 1st",
+                "zh": "愚人節才開的櫻花"
+            },
+            "signature": true
+        },
+        {
+            "igtoken": "BxM02sxFogM",
+            "key": "never_date",
+            "keys": [
+                "甜的",
+                "梅酒",
+                "umeshu",
+                "甘蔗",
+                "甘蔗汁",
+                "杏仁",
+                "杏仁茶",
+                "Thanks God You Never Date with Her",
+                "杏好梅在一起"
+            ],
+            "name": {
+                "en": "Thanks God You Never Date with Her",
+                "zh": "杏好梅在一起"
+            },
+            "signature": true
+        },
+        {
+            "igtoken": "BxpJ8TRlv69",
+            "key": "mexico_snow",
+            "keys": [
+                "甜的",
+                "龍舌蘭",
+                "tequila",
+                "檸檬",
+                "lemon",
+                "可爾必思",
+                "calpis",
+                "Snow in Mexico",
+                "墨西哥之雪"
+            ],
+            "name": {
+                "en": "Snow in Mexico",
+                "zh": "墨西哥之雪"
+            },
+            "signature": true
+        },
+        {
+            "igtoken": "ByDR3flhT79",
+            "key": "elder_sidecar",
+            "keys": [
+                "cognac",
+                "白蘭地",
+                "干邑",
+                "短飲",
+                "檸檬",
+                "lemon",
+                "接骨木花",
+                "接骨木",
+                "elderflower",
+                "Elder Side Car",
+                "老漢推車"
+            ],
+            "name": {
+                "en": "Elder Side Car",
+                "zh": "老漢推車"
+            },
+            "signature": true
+        },
+        {
+            "igtoken": "ByVEa_oFbV9",
+            "key": "sweet_black_magic",
+            "keys": [
+                "vodka",
+                "伏特加",
+                "咖啡",
+                "咖啡酒",
+                "coffee",
+                "檸檬",
+                "lemon",
+                "楓糖",
+                "楓糖漿",
+                "maple",
+                "Sweet Black Magic",
+                "甜蜜黑魔法"
+            ],
+            "name": {
+                "en": "Sweet Black Magic",
+                "zh": "甜蜜黑魔法"
+            },
+            "signature": true
+        },
+        {
+            "igtoken": "ByfT2zyldlt",
+            "key": "maple_southside",
+            "keys": [
+                "甜的",
+                "gin",
+                "琴酒",
+                "檸檬",
+                "lemon",
+                "楓糖",
+                "楓糖漿",
+                "maple",
+                "短飲",
+                "Maple Southside",
+                "南方楓情"
+            ],
+            "name": {
+                "en": "Maple Southside",
+                "zh": "南方楓情"
+            },
+            "signature": true
+        },
+        {
+            "igtoken": "B1ThA2fll56",
+            "key": "bourbon_grapefruit_sour",
+            "keys": [
+                "酸的",
+                "甜的",
+                "bourbon",
+                "波本",
+                "沙瓦",
+                "威士忌",
+                "whiskey",
+                "葡萄柚",
+                "蜂蜜",
+                "honey",
+                "Bourbon Grapefruit Sour",
+                "葡萄柚波本沙瓦"
+            ],
+            "name": {
+                "en": "Bourbon Grapefruit Sour",
+                "zh": "葡萄柚波本沙瓦"
+            },
+            "signature": true
+        },
+        {
+            "igtoken": "B13m0BtF1xH",
+            "key": "gramopolitan",
+            "keys": [
+                "果香",
+                "甜的",
+                "葡萄夢波丹",
+                "伏特加",
+                "vodka",
+                "君度",
+                "cointreau",
+                "檸檬",
+                "lemon",
+                "葡萄",
+                "妹酒",
+                "短飲",
+                "Gramopolitan",
+                "葡萄夢波丹"
+            ],
+            "name": {
+                "en": "Gramopolitan",
+                "zh": "葡萄夢波丹"
+            },
+            "signature": true
+        },
+        {
+            "igtoken": "B2JjwWAFLw3",
+            "key": "summer_romance",
+            "keys": [
+                "果香",
+                "甜的",
+                "rum",
+                "蘭姆酒",
+                "tropix",
+                "君度",
+                "cointreau",
+                "mango",
+                "芒果",
+                "鳳梨",
+                "椰子",
+                "短飲",
+                "Summer Romance",
+                "夏日浪漫"
+            ],
+            "name": {
+                "en": "Summer Romance",
+                "zh": "夏日浪漫"
+            },
+            "signature": true
+        },
+        {
+            "igtoken": "B2bvfpYFOnC",
+            "key": "lazy_sweetness",
+            "keys": [
+                "果香",
+                "甜的",
+                "草莓",
+                "strawberry",
+                "君度",
+                "cointreau",
+                "banana",
+                "香蕉",
+                "短飲",
+                "Lazy Sweetness",
+                "慵懶甜心"
+            ],
+            "name": {
+                "en": "Lazy Sweetness",
+                "zh": "慵懶甜心"
+            },
+            "signature": true
+        },
+        {
+            "igtoken": "B2_xo7WlSxp",
+            "key": "tea_beer_gin_fizz",
+            "keys": [
+                "茶香",
+                "麥香",
+                "清爽",
+                "Gin Fizz",
+                "琴酒",
+                "gin",
+                "長飲",
+                "檸檬",
+                "lemon",
+                "茶",
+                "接骨木花",
+                "接骨木",
+                "elderflower",
+                "啤酒",
+                "Tea Beer Gin Fizz",
+                "深葉琴費茲"
+            ],
+            "name": {
+                "en": "Tea Beer Gin Fizz",
+                "zh": "深葉琴費茲"
+            },
+            "signature": true
+        },
+        {
+            "igtoken": "B3R3tP2F8df",
+            "key": "youth_first_love",
+            "keys": [
+                "花香",
+                "甜的",
+                "gin",
+                "琴酒",
+                "rose",
+                "玫瑰",
+                "玫瑰花",
+                "妹酒",
+                "短飲",
+                "接骨木花",
+                "接骨木",
+                "elderflower",
+                "cranberry",
+                "蔓越梅",
+                "Youth First Love",
+                "初戀青春"
+            ],
+            "name": {
+                "en": "Youth First Love",
+                "zh": "初戀青春"
+            },
+            "signature": true
+        },
+        {
+            "igtoken": "B3j82rUFwVD",
+            "key": "amber_iced_tea",
+            "keys": [
+                "茶香",
+                "清爽",
+                "琴酒",
+                "gin",
+                "短飲",
+                "檸檬",
+                "lemon",
+                "tiffin",
+                "茶",
+                "茶酒",
+                "黑櫻桃",
+                "maraschino",
+                "Amber Iced Tea",
+                "琥珀冰茶"
+            ],
+            "name": {
+                "en": "Amber Iced Tea",
+                "zh": "琥珀冰茶"
+            },
+            "signature": true
+        },
+        {
+            "igtoken": "B31o5_UFRCT",
+            "key": "mango_fizz",
+            "keys": [
+                "果香",
+                "甜的",
+                "清爽",
+                "Gin Fizz",
+                "琴酒",
+                "gin",
+                "長飲",
+                "檸檬",
+                "lemon",
+                "芒果",
+                "mango",
+                "Mango Fizz",
+                "芒果費茲"
+            ],
+            "name": {
+                "en": "Mango Fizz",
+                "zh": "芒果費茲"
+            },
+            "signature": true
+        },
+        {
+            "igtoken": "B4IH1noFbZY",
+            "key": "blue_moon",
+            "keys": [
+                "酒感",
+                "甜的",
+                "琴酒",
+                "gin",
+                "短飲",
+                "檸檬",
+                "lemon",
+                "藍柑橘",
+                "鳳梨",
+                "可爾必思",
+                "Calpis",
+                "Blue Moon",
+                "藍月"
+            ],
+            "name": {
+                "en": "Blue Moon",
+                "zh": "藍月"
+            },
+            "signature": true
+        },
+        {
+            "igtoken": "B4r_aGllVdG",
+            "key": "TEAquila",
+            "keys": [
+                "茶香",
+                "甜的",
+                "龍舌蘭",
+                "tequila",
+                "短飲",
+                "檸檬",
+                "lemon",
+                "蜂蜜",
+                "茶",
+                "TEAquila",
+                "茶舌蘭"
+            ],
+            "name": {
+                "en": "TEAquila",
+                "zh": "茶舌蘭"
+            },
+            "signature": true
+        },
+        {
+            "igtoken": "B494Wrtl0TL",
+            "key": "japan_guava",
+            "keys": [
+                "茶香",
+                "果香",
+                "甜的",
+                "琴酒",
+                "gin",
+                "梅酒",
+                "茶梅酒",
+                "茶酒",
+                "茶",
+                "芭樂",
+                "guava",
+                "Japan Guava",
+                "芭樂弄梅"
+            ],
+            "name": {
+                "en": "Japan Guava",
+                "zh": "芭樂弄梅"
+            },
+            "signature": true
+        },
+        {
+            "igtoken": "B5Shfp8l56a",
+            "key": "lychee_tea_fizz",
+            "keys": [
+                "果香",
+                "茶香",
+                "甜的",
+                "琴酒",
+                "gin",
+                "tiffin",
+                "茶酒",
+                "啤酒",
+                "茶",
+                "荔枝",
+                "檸檬",
+                "Lychee Tea Fizz",
+                "貴妃茶費茲"
+            ],
+            "name": {
+                "en": "Lychee Tea Fizz",
+                "zh": "貴妃茶費茲"
+            },
+            "signature": true
+        },
+        {
+            "igtoken": "B6X2_9yFVlc",
+            "key": "blood_orange_sidecar",
+            "keys": [
+                "酒感",
+                "酸的",
+                "cognac",
+                "白蘭地",
+                "干邑",
+                "短飲",
+                "檸檬",
+                "lemon",
+                "君度",
+                "cointreau",
+                "Blood Orange Sidecar",
+                "血橙側車"
+            ],
+            "name": {
+                "en": "Blood Orange Sidecar",
+                "zh": "血橙側車"
+            },
+            "signature": true
+        },
+        {
+            "igtoken": "B6p--4OlbgF",
+            "key": "pallini_sunshine",
+            "keys": [
+                "果香",
+                "酸的",
+                "gin",
+                "琴酒",
+                "葡萄柚",
+                "短飲",
+                "檸檬",
+                "lemon",
+                "君度",
+                "cointreau",
+                "Pallini Sunshine",
+                "陽光下的帕里尼"
+            ],
+            "name": {
+                "en": "Pallini Sunshine",
+                "zh": "陽光下的帕里尼"
+            },
+            "signature": true
+        },
+        {
+            "igtoken": "B7N9H1PFm3g",
+            "key": "tropical_island",
+            "keys": [
+                "果香",
+                "甜的",
+                "鳳梨",
+                "椰子",
+                "椰奶",
+                "短飲",
+                "柳橙",
+                "orange",
+                "熱帶",
+                "tiki",
+                "Tropical Island",
+                "熱帶島嶼"
+            ],
+            "name": {
+                "en": "Tropical Island",
+                "zh": "熱帶島嶼"
+            },
+            "signature": true
+        },
+        {
+            "igtoken": "B7f-5mHFXH7",
+            "key": "coffee_gin_tonic",
+            "keys": [
+                "咖啡香",
+                "酸的",
+                "清爽",
+                "tonic",
+                "琴酒",
+                "gin",
+                "長飲",
+                "檸檬",
+                "lemon",
+                "咖啡",
+                "coffee",
+                "Coffee Gin Tonic",
+                "咖啡琴通寧"
+            ],
+            "name": {
+                "en": "Coffee Gin Tonic",
+                "zh": "咖啡琴通寧"
+            },
+            "signature": true
+        },
+        {
+            "igtoken": "B7s6mVJFVvG",
+            "key": "jia_dee_dee",
+            "keys": [
+                "蘭姆酒",
+                "rum",
+                "長飲",
+                "檸檬",
+                "lemon",
+                "桂圓紅棗",
+                "蘋果蘇打",
+                "蘇打",
+                "過年",
+                "Jia-Dee-Dee",
+                "呷滴滴"
+            ],
+            "name": {
+                "en": "Jia-Dee-Dee",
+                "zh": "呷滴滴"
+            },
+            "signature": true
+        },
+        {
+            "igtoken": "B78qhbkFvGV",
+            "key": "sweet_lady",
+            "keys": [
+                "果香",
+                "甜的",
+                "伏特加",
+                "vodka",
+                "琴酒",
+                "gin",
+                "短飲",
+                "柳橙",
+                "orange",
+                "honey",
+                "蜂蜜",
+                "蔓越梅",
+                "cranberry",
+                "Sweet Lady",
+                "甜心女孩"
+            ],
+            "name": {
+                "en": "Sweet Lady",
+                "zh": "甜心女孩"
+            },
+            "signature": true
+        },
+        {
+            "igtoken": "B8i69AmFyaZ",
+            "key": "you_complete_me",
+            "keys": [
+                "甜的",
+                "威士忌",
+                "whisky",
+                "巧克力",
+                "chocolate",
+                "短飲",
+                "糖漿",
+                "syrup",
+                "You Complete Me",
+                "你使我人生完整"
+            ],
+            "name": {
+                "en": "You Complete Me",
+                "zh": "你使我人生完整"
+            },
+            "signature": true
+        },
+        {
+            "igtoken": "B86DQ-glaeR",
+            "key": "gwen_stacy",
+            "keys": [
+                "果香",
+                "茶香",
+                "甜的",
+                "伏特加",
+                "vodka",
+                "芭樂",
+                "guava",
+                "短飲",
+                "糖漿",
+                "syrup",
+                "蜂蜜",
+                "honey",
+                "接骨木花",
+                "接骨木",
+                "elderflower",
+                "Gwen Stacy",
+                "關．史黛西"
+            ],
+            "name": {
+                "en": "Gwen Stacy",
+                "zh": "關．史黛西"
+            },
+            "signature": true
+        },
+        {
+            "igtoken": "B9MAxMOFFBA",
+            "key": "dreamland",
+            "keys": [
+                "木質",
+                "茶香",
+                "威士忌",
+                "whisky",
+                "whittard",
+                "奶油",
+                "短飲",
+                "bitters",
+                "Yuzu",
+                "Dreamland",
+                "夢境"
+            ],
+            "name": {
+                "en": "Dreamland",
+                "zh": "夢境"
+            },
+            "signature": true
+        },
+        {
+            "igtoken": "B-CKTojFzr8",
+            "key": "honey_sangria",
+            "keys": [
+                "果香",
+                "甜的",
+                "蘭姆酒",
+                "rum",
+                "honey",
+                "蜂蜜",
+                "白酒",
+                "wine",
+                "Honey Sangria",
+                "蜂蜜西班牙水果酒"
+            ],
+            "name": {
+                "en": "Honey Sangria",
+                "zh": "蜂蜜西班牙水果酒"
+            },
+            "signature": true
+        },
+        {
+            "igtoken": "B-UUFdVlFcT",
+            "key": "tropical_woodland",
+            "keys": [
+                "木質",
+                "酒感",
+                "蘭姆酒",
+                "rum",
+                "威士忌",
+                "龍眼",
+                "桂圓",
+                "whiskey",
+                "短飲",
+                "Tropical Woodland",
+                "熱帶林園"
+            ],
+            "name": {
+                "en": "Tropical Woodland",
+                "zh": "熱帶林園"
+            },
+            "signature": true
+        },
+        {
+            "igtoken": "ByxIMywFZNi",
+            "key": "gin_grey",
+            "keys": [
+                "茶香",
+                "奶香",
+                "甜的",
+                "Gin",
+                "琴酒",
+                "伯爵茶",
+                "茶",
+                "Earl Grey",
+                "Bubble Tea",
+                "Milk Tea",
+                "奶茶",
+                "手搖飲料",
+                "手搖",
+                "懶人",
+                "Gin Grey",
+                "琴．葛雷"
+            ],
+            "name": {
+                "en": "Gin Grey",
+                "zh": "琴．葛雷"
+            },
+            "signature": true
+        },
+        {
+            "igtoken": "By46D0plHm-",
+            "key": "gin_fruit_tea",
+            "keys": [
+                "茶香",
+                "果香",
+                "甜的",
+                "Gin",
+                "琴酒",
+                "水果茶",
+                "茶",
+                "水果",
+                "夏日",
+                "Bubble Tea",
+                "Fruit Tea",
+                "手搖飲料",
+                "手搖",
+                "懶人",
+                "Gin Fruit Tea",
+                "深琴水果茶"
+            ],
+            "name": {
+                "en": "Gin Fruit Tea",
+                "zh": "深琴水果茶"
+            },
+            "signature": true
+        },
+        {
+            "igtoken": "BzD_eQdFK6i",
+            "key": "bobawalk",
+            "keys": [
+                "茶香",
+                "奶香",
+                "甜的",
+                "Whisky",
+                "威士忌",
+                "茶",
+                "Bubble Tea",
+                "Milk Tea",
+                "手搖飲料",
+                "手搖",
+                "懶人",
+                "Bobawalk",
+                "波霸走路"
+            ],
+            "name": {
+                "en": "Bobawalk",
+                "zh": "波霸走路"
+            },
+            "signature": true
+        },
+        {
+            "igtoken": "BzLRs9SFiu1",
+            "key": "brandy_la_tieguanyin",
+            "keys": [
+                "茶香",
+                "奶香",
+                "甜的",
+                "Brandy",
+                "白蘭地",
+                "茶",
+                "鐵觀音",
+                "Bubble Tea",
+                "TieGuanYin",
+                "Milk Tea",
+                "手搖飲料",
+                "手搖",
+                "懶人",
+                "Brandy La TieGuanYin",
+                "白蘭地拿鐵觀音"
+            ],
+            "name": {
+                "en": "Brandy La TieGuanYin",
+                "zh": "白蘭地拿鐵觀音"
+            },
+            "signature": true
+        },
+        {
+            "igtoken": "BzVicdClfyt",
+            "key": "sex_on_the_beach_ii",
+            "keys": [
+                "果香",
+                "甜的",
+                "酸的",
+                "Sex on the Beach II",
+                "Vodka",
+                "伏特加",
+                "茶",
+                "水果茶",
+                "茶香",
+                "水果",
+                "夏日",
+                "鳳梨",
+                "Pineapple",
+                "蔓越莓",
+                "Cranberry",
+                "Bubble Tea",
+                "Fruit Tea",
+                "手搖",
+                "懶人",
+                "Sex on the Beach II",
+                "性感海灘 II"
+            ],
+            "name": {
+                "en": "Sex on the Beach II",
+                "zh": "性感海灘 II"
+            },
+            "signature": true
+        },
+        {
+            "igtoken": "BznFwrzlERu",
+            "key": "sugar_cane_family",
+            "keys": [
+                "茶香",
+                "果香",
+                "甜的",
+                "Rum",
+                "蘭姆酒",
+                "萊姆酒",
+                "朗姆酒",
+                "茶",
+                "水果茶",
+                "水果",
+                "夏日",
+                "甘蔗",
+                "Sugar Cane",
+                "Bubble Tea",
+                "Fruit Tea",
+                "手搖飲料",
+                "手搖",
+                "Sugar Cane Family",
+                "甘蔗一家"
+            ],
+            "name": {
+                "en": "Sugar Cane Family",
+                "zh": "甘蔗一家"
+            },
+            "signature": true
+        },
+        {
+            "igtoken": "Bz5V3u3ln1e",
+            "key": "earl_grey_latte_x",
+            "keys": [
+                "茶香",
+                "奶香",
+                "甜的",
+                "Brandy",
+                "白蘭地",
+                "伯爵茶",
+                "茶",
+                "Earl Grey",
+                "Bubble Tea",
+                "Milk Tea",
+                "奶茶",
+                "手搖飲料",
+                "手搖",
+                "懶人",
+                "手搖",
+                "Earl Grey Latte X",
+                "伯爵鮮奶茶X"
+            ],
+            "name": {
+                "en": "Earl Grey Latte X",
+                "zh": "伯爵鮮奶茶X"
+            },
+            "signature": true
+        },
+        {
+            "igtoken": "B0dj7qZFGyp",
+            "key": "te_sangria",
+            "keys": [
+                "果香",
+                "甜的",
+                "酸的",
+                "Red Wine",
+                "紅酒",
+                "伯爵茶",
+                "茶香",
+                "茶",
+                "水果茶",
+                "水果",
+                "夏日",
+                "Earl Grey",
+                "Bubble Tea",
+                "Fruit Tea",
+                "Tea",
+                "手搖飲料",
+                "手搖",
+                "Té Sangria",
+                "桑格莉亞茶"
+            ],
+            "name": {
+                "en": "Té Sangria",
+                "zh": "桑格莉亞茶"
+            },
+            "signature": true
+        },
+        {
+            "igtoken": "B0vWR-pFp84",
+            "key": "before_a_nap",
+            "keys": [
+                "茶香",
+                "甜的",
+                "酸的",
+                "Rum",
+                "蘭姆酒",
+                "萊姆酒",
+                "朗姆酒",
+                "Calvados",
+                "蘋果白蘭地",
+                "茶",
+                "水果茶",
+                "茶",
+                "水果",
+                "夏日",
+                "蘆薈",
+                "Bubble Tea",
+                "Fruit Tea",
+                "懶人",
+                "Before A Nap",
+                "午覺之前"
+            ],
+            "name": {
+                "en": "Before A Nap",
+                "zh": "午覺之前"
+            },
+            "signature": true
+        },
+        {
+            "igtoken": "B1BiVSaFXOR",
+            "key": "cultured_earl_grey",
+            "keys": [
+                "茶香",
+                "甜的",
+                "酸的",
+                "Rum",
+                "蘭姆酒",
+                "萊姆酒",
+                "朗姆酒",
+                "Calvados",
+                "蘋果白蘭地",
+                "伯爵茶",
+                "茶",
+                "水果茶",
+                "水果",
+                "夏日",
+                "Earl Grey",
+                "Bubble Tea",
+                "Fruit Tea",
+                "手搖",
+                "懶人",
+                "Cultured Earl Grey",
+                "深度伯爵"
+            ],
+            "name": {
+                "en": "Cultured Earl Grey",
+                "zh": "深度伯爵"
+            },
+            "signature": true
+        },
+        {
+            "igtoken": "B1lkUD4lerH",
+            "key": "green_breeze",
+            "keys": [
+                "茶香",
+                "甜的",
+                "Gin",
+                "琴酒",
+                "Calvados",
+                "蘋果白蘭地",
+                "綠茶",
+                "青茶",
+                "茶",
+                "夏日",
+                "Green Tea",
+                "Bubble Tea",
+                "Tea",
+                "手搖飲料",
+                "手搖",
+                "懶人",
+                "四季春",
+                "甘甜",
+                "Green Breeze",
+                "綠風"
+            ],
+            "name": {
+                "en": "Green Breeze",
+                "zh": "綠風"
+            },
+            "signature": true
+        },
+        {
+            "igtoken": "B-4OvYEFKEU",
+            "key": "somaek",
+            "keys": [
+                "麥香",
+                "清爽",
+                "soju",
+                "燒酒",
+                "beer",
+                "啤酒",
+                "懶人",
+                "超商",
+                "Somaek",
+                "燒啤"
+            ],
+            "name": {
+                "en": "Somaek",
+                "zh": "燒啤"
+            },
+            "signature": true
+        },
+        {
+            "igtoken": "B_KNNq9lUmc",
+            "key": "saf",
+            "keys": [
+                "甜的",
+                "SAF",
+                "soju",
+                "燒酒",
+                "soda",
+                "汽水",
+                "蘋果汽水",
+                "香草",
+                "香草冰淇淋",
+                "懶人",
+                "超商",
+                "Soju Apple Float",
+                "漂浮蘋果燒酒"
+            ],
+            "name": {
+                "en": "Soju Apple Float",
+                "zh": "漂浮蘋果燒酒"
+            },
+            "signature": true
+        },
+        {
+            "igtoken": "B_cKb7Elyw1",
+            "key": "beer_coke",
+            "keys": [
+                "清爽",
+                "soju",
+                "燒酒",
+                "beer",
+                "啤酒",
+                "可樂",
+                "coke",
+                "懶人",
+                "超商",
+                "고진감래주",
+                "苦盡甘來"
+            ],
+            "name": {
+                "en": "고진감래주",
+                "zh": "苦盡甘來"
+            },
+            "signature": true
+        },
+        {
+            "igtoken": "B_uRV-uFi-E",
+            "key": "honey_milk_soju",
+            "keys": [
+                "奶香",
+                "甜的",
+                "soju",
+                "燒酒",
+                "milk",
+                "牛奶",
+                "honey",
+                "蜂蜜",
+                "蜂蜜牛奶",
+                "懶人",
+                "超商",
+                "Honey Milk Soju",
+                "蜂蜜牛奶燒酒"
+            ],
+            "name": {
+                "en": "Honey Milk Soju",
+                "zh": "蜂蜜牛奶燒酒"
+            },
+            "signature": true
+        },
+        {
+            "igtoken": "B_2Sl0Ml10U",
+            "key": "chocolate_milk_soju",
+            "keys": [
+                "奶香",
+                "甜的",
+                "soju",
+                "燒酒",
+                "milk",
+                "牛奶",
+                "honey",
+                "蜂蜜",
+                "蜂蜜牛奶",
+                "可可亞牛乳",
+                "巧克力",
+                "懶人",
+                "超商",
+                "Chocolate Milk Soju",
+                "可可牛奶燒酒"
+            ],
+            "name": {
+                "en": "Chocolate Milk Soju",
+                "zh": "可可牛奶燒酒"
+            },
+            "signature": true
+        },
+        {
+            "igtoken": "CAAa2tslb89",
+            "key": "melona_soju",
+            "keys": [
+                "甜的",
+                "果香",
+                "soju",
+                "燒酒",
+                "melona",
+                "哈密瓜冰棒",
+                "雪碧",
+                "sprite",
+                "懶人",
+                "超商",
+                "Melona Soju",
+                "Melona哈密瓜燒酒"
+            ],
+            "name": {
+                "en": "Melona Soju",
+                "zh": "Melona哈密瓜燒酒"
+            },
+            "signature": true
+        },
+        {
+            "igtoken": "CASUaL8FrP3",
+            "key": "yolala_lemon_soju",
+            "keys": [
+                "甜的",
+                "soju",
+                "燒酒",
+                "yogurt",
+                "soda",
+                "汽水",
+                "檸檬茶",
+                "懶人",
+                "超商",
+                "Yolala Lemon Soju",
+                "檸茶多多燒酒"
+            ],
+            "name": {
+                "en": "Yolala Lemon Soju",
+                "zh": "檸茶多多燒酒"
+            },
+            "signature": true
+        },
+        {
+            "igtoken": "CAkYTwblxX_",
+            "key": "white_gourd_lemon_soju",
+            "keys": [
+                "甜的",
+                "清爽",
+                "soju",
+                "燒酒",
+                "冬瓜茶",
+                "檸檬茶",
+                "懶人",
+                "超商",
+                "White Gourd and Lemon Soju",
+                "檸檬冬瓜燒酒"
+            ],
+            "name": {
+                "en": "White Gourd and Lemon Soju",
+                "zh": "檸檬冬瓜燒酒"
+            },
+            "signature": true
+        },
+        {
+            "igtoken": "CBab1holZzy",
+            "key": "may_fantasia",
+            "keys": [
+                "果香",
+                "茶香",
+                "甜的",
+                "短飲",
+                "白酒",
+                "wine",
+                "玫瑰花",
+                "rose",
+                "桃",
+                "水蜜桃",
+                "May Fantasia",
+                "五月的幻想曲"
+            ],
+            "name": {
+                "en": "May Fantasia",
+                "zh": "五月的幻想曲"
+            },
+            "signature": true
+        },
+        {
+            "igtoken": "CCipxu6lY60",
+            "key": "blackcurrant_oolong_tea",
+            "keys": [
+                "果香",
+                "茶香",
+                "清爽",
+                "甜的",
+                "琴酒",
+                "gin",
+                "烏龍茶",
+                "長飲",
+                "Blackcurrant Oolong Tea",
+                "黑醋栗烏龍茶"
+            ],
+            "name": {
+                "en": "Blackcurrant Oolong Tea",
+                "zh": "黑醋栗烏龍茶"
+            },
+            "signature": true
+        },
+        {
+            "igtoken": "CC0lc17F4lx",
+            "key": "taste_of_autumn",
+            "keys": [
+                "果香",
+                "清爽",
+                "甜的",
+                "長飲",
+                "琴酒",
+                "gin",
+                "小黃瓜",
+                "柚子",
+                "苦精",
+                "tonic",
+                "gin tonic",
+                "通寧",
+                "Taste of Autumn",
+                "金風玉露"
+            ],
+            "name": {
+                "en": "Taste of Autumn",
+                "zh": "金風玉露"
+            },
+            "signature": true
+        },
+        {
+            "igtoken": "CDGjW0ElAVG",
+            "key": "grape_cocktails",
+            "keys": [
+                "果香",
+                "甜的",
+                "甜的",
+                "白蘭地",
+                "麗葉酒",
+                "lillet",
+                "cognac",
+                "葡萄",
+                "grape",
+                "Grape Cocktails",
+                "葡萄調酒"
+            ],
+            "name": {
+                "en": "Grape Cocktails",
+                "zh": "葡萄調酒"
+            },
+            "signature": true
+        },
+        {
+            "igtoken": "CDqoaGVDwSa",
+            "key": "jasmine_tea",
+            "keys": [
+                "花香",
+                "茶香",
+                "甜的",
+                "琴酒",
+                "烏龍茶",
+                "oolong",
+                "gin",
+                "jasmine",
+                "茉莉花",
+                "Jasmine Tea",
+                "茉莉花茶"
+            ],
+            "name": {
+                "en": "Jasmine Tea",
+                "zh": "茉莉花茶"
+            },
+            "signature": true
+        },
+        {
+            "igtoken": "CD8rFM-HACf",
+            "key": "jasmine",
+            "keys": [
+                "花香",
+                "果香",
+                "甜的",
+                "琴酒",
+                "蔓越梅",
+                "cranberry",
+                "gin",
+                "jasmine",
+                "茉莉花",
+                "honey",
+                "蜂蜜",
+                "Jasmine",
+                "茉莉公主"
+            ],
+            "name": {
+                "en": "Jasmine",
+                "zh": "茉莉公主"
+            },
+            "signature": true
+        },
+        {
+            "igtoken": "CEOrVmcHAAx",
+            "key": "monkey_punch",
+            "keys": [
+                "果香",
+                "蘭姆酒",
+                "鳳梨",
+                "pineapple",
+                "run",
+                "薑汁汽水",
+                "ginger",
+                "甜的",
+                "honey",
+                "蜂蜜",
+                "lemon",
+                "檸檬",
+                "Monkey Punch",
+                "猴子喝潘趣"
+            ],
+            "name": {
+                "en": "Monkey Punch",
+                "zh": "猴子喝潘趣"
+            },
+            "signature": true
+        },
+        {
+            "igtoken": "CEgrOSGH2NL",
+            "key": "oriental_lady",
+            "keys": [
+                "果香",
+                "茶香",
+                "甜的",
+                "伏特加",
+                "vodka",
+                "君度",
+                "橙酒",
+                "cointreau",
+                "lemon",
+                "檸檬",
+                "蔓越梅",
+                "cranberry",
+                "烏龍茶",
+                "cosmopolitan",
+                "柯夢波丹",
+                "Oriental lady",
+                "東方淑女"
+            ],
+            "name": {
+                "en": "Oriental lady",
+                "zh": "東方淑女"
+            },
+            "signature": true
+        },
+        {
+            "igtoken": "CFEvbpSnUCc",
+            "key": "indigo_wind",
+            "keys": [
+                "果香",
+                "甜的",
+                "伏特加",
+                "vodka",
+                "君度",
+                "橙酒",
+                "cointreau",
+                "lemon",
+                "檸檬",
+                "藍莓",
+                "blueberry",
+                "cosmopolitan",
+                "柯夢波丹",
+                "Indigo wind",
+                "靛色之風"
+            ],
+            "name": {
+                "en": "Indigo wind",
+                "zh": "靛色之風"
+            },
+            "signature": true
+        },
+        {
+            "igtoken": "CF66kh0n5n0",
+            "key": "water",
+            "keys": [
+                "果香",
+                "甜的",
+                "蘭姆酒",
+                "rum",
+                "peach",
+                "桃子",
+                "apple",
+                "青蘋果",
+                "maraschino",
+                "黑櫻桃",
+                "Water",
+                "水"
+            ],
+            "name": {
+                "en": "Water",
+                "zh": "水"
+            },
+            "signature": true
+        }
+    ]
+}
