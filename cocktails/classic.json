@@ -672,6 +672,83 @@
                 "zh": "教父"
             },
             "signature": false
+        },
+        {
+            "igtoken": "CHC9mtKnoT5",
+            "key": "kings_valley",
+            "keys": [
+                "酒感",
+                "酸的",
+                "威士忌",
+                "whiskey",
+                "蘇格蘭",
+                "scotch",
+                "藍柑橘",
+                "King’s Valley",
+                "國王谷"
+            ],
+            "name": {
+                "en": "King’s Valley",
+                "zh": "國王谷"
+            },
+            "signature": false
+        },
+        {
+            "igtoken": "CHVTQ-PnskW",
+            "key": "vesper",
+            "keys": [
+                "酒感",
+                "琴酒",
+                "gin",
+                "短飲",
+                "麗葉酒",
+                "lillet",
+                "Martini",
+                "馬丁尼"
+            ],
+            "name": {
+                "en": "Vesper",
+                "zh": "薇絲朋"
+            },
+            "signature": false
+        },
+        {
+            "igtoken": "CH4_4MGr2pa",
+            "key": "black_russian",
+            "keys": [
+                "咖啡",
+                "甜的",
+                "伏特加",
+                "vodka",
+                "Black Russian",
+                "黑色俄羅斯"
+            ],
+            "name": {
+                "en": "Black Russian",
+                "zh": "黑色俄羅斯"
+            },
+            "signature": false
+        },
+        {
+            "igtoken": "CILBcolBysm",
+            "key": "20th_century",
+            "keys": [
+                "酸的",
+                "甜的",
+                "琴酒",
+                "gin",
+                "短飲",
+                "麗葉酒",
+                "lillet",
+                "巧克力",
+                "檸檬",
+                "lemon"
+            ],
+            "name": {
+                "en": "20th Century",
+                "zh": "20 世紀"
+            },
+            "signature": false
         }
     ]
 }
